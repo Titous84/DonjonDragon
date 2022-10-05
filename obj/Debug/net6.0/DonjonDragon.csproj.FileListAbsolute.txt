@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\bin\Debug\net6.0\DonjonDragon.exe
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\bin\Debug\net6.0\DonjonDragon.deps.json
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\bin\Debug\net6.0\DonjonDragon.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\bin\Debug\net6.0\DonjonDragon.dll
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\bin\Debug\net6.0\DonjonDragon.pdb
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.dll
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\refint\DonjonDragon.dll
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.pdb
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\DonjonDragon.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\Informatique\Programmation\Visual studio\DonjonDragon\obj\Debug\net6.0\ref\DonjonDragon.dll
